@@ -1,0 +1,3 @@
+/home/dmatiunina/PycharmProjects/AAMED_integration/cmake-build/CMakeFiles/edit_cache.dir
+/home/dmatiunina/PycharmProjects/AAMED_integration/cmake-build/CMakeFiles/rebuild_cache.dir
+/home/dmatiunina/PycharmProjects/AAMED_integration/cmake-build/CMakeFiles/AAMED.dir
